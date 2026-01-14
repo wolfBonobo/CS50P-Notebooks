@@ -15,6 +15,7 @@ Documentar de forma técnica y didáctica cada concepto fundamental de Python pa
 * **[Semana 1: Condicionales](./notebooks/01_condiciones.ipynb):** Lógica booleana, operadores de comparación y estructuras de control `if/elif/else`.
 * **[Semana 2: Bucles (Loops)](./notebooks/02_bucles.ipynb):** Control de flujo iterativo (`while`, `for`), validación de datos, diccionarios y bucles anidados.
 * **[Semana 3: Excepciones](./notebooks/03_excepciones.ipynb):** Manejo de errores con `try/except/else`, validación robusta de entradas y uso de la palabra clave `pass`.
+* **[Semana 4: Librerías (Libraries)](./notebooks/04_librerias.ipynb):** Uso de módulos integrados (`random`, `statistics`), manejo de argumentos de línea de comandos (`sys.argv`), gestión de paquetes externos con `pip`, consumo de APIs mediante `requests`, procesamiento de datos JSON y creación de módulos personalizados.
 
 ## ⚖️ Licencia
 Este proyecto está bajo la Licencia MIT.
