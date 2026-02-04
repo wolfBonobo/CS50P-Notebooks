@@ -16,9 +16,10 @@ Documentar de forma técnica y didáctica cada concepto fundamental de Python pa
 * **[Semana 2: Bucles (Loops)](./notebooks/02_bucles.ipynb):** Control de flujo iterativo (`while`, `for`), validación de datos, diccionarios y bucles anidados.
 * **[Semana 3: Excepciones](./notebooks/03_excepciones.ipynb):** Manejo de errores con `try/except/else`, validación robusta de entradas y uso de la palabra clave `pass`.
 * **[Semana 4: Librerías (Libraries)](./notebooks/04_librerias.ipynb):** Uso de módulos integrados (`random`, `statistics`), manejo de argumentos de línea de comandos (`sys.argv`), gestión de paquetes externos con `pip`, consumo de APIs mediante `requests`, procesamiento de datos JSON y creación de módulos personalizados.
-* **[Semana 5: Pruebas Unitarias (Unit Tests)](./notebooks/05_unit_test.ipynb):** Validación de funciones individuales de forma aislada; implementación de la palabra clave `assert` para verificaciones lógicas; automatización y organización de baterías de pruebas con `pytest`; manejo de excepciones esperadas mediante `pytest.raises`; y estructuración profesional de proyectos con carpetas de tests y archivos `__init__.py`.
+* **[Semana 5: Pruebas Unitarias (Unit Tests)](./notebooks/05_unit_test.ipynb):** Validación de funciones individuales; implementación de `assert` y `pytest`; manejo de excepciones esperadas con `pytest.raises`; y estructuración de proyectos con carpetas de tests e inicializadores `__init__.py`.
+* **[Semana 6: Entrada y Salida de Archivos (File I/O)](./notebooks/06_file_io.ipynb):** Implementación de persistencia de datos mediante el guardado y lectura de archivos físicos; gestión segura de recursos con el contexto `with`; procesamiento avanzado de datos tabulares con la librería `csv` (`DictReader` y `DictWriter`); manipulación de archivos binarios e imágenes mediante la librería `Pillow` (PIL); y técnicas de ordenación de estructuras complejas utilizando funciones `lambda`.
 
-
+---
 
 ## ⚖️ Licencia
 Este proyecto está bajo la Licencia MIT.
